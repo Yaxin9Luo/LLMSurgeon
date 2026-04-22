@@ -1,0 +1,12 @@
+schema: category-mixture-v1
+name: CodeLlama
+family: Meta CodeLlama
+tokenizer_name: codellama/CodeLlama-7b-hf
+categories:
+  - code
+  - language_code
+  - language
+category_weights:
+  code: 85.0
+  language_code: 8.0
+  language: 7.0

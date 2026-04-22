@@ -1,0 +1,60 @@
+cff-version: 1.2.0
+message: "If you use LLMSurgeon in your research, please cite the following paper."
+title: "LLMSurgeon: Diagnosing Data Mixture of Large Language Models"
+authors:
+  - family-names: Luo
+    given-names: Yaxin
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Cui
+    given-names: Jiacheng
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Zhao
+    given-names: Xiaohan
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Shang
+    given-names: Xinyi
+    affiliation: "VILA Lab, MBZUAI; UCL"
+  - family-names: Liu
+    given-names: Jiacheng
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Bi
+    given-names: Xinyue
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Li
+    given-names: Zhaoyi
+    affiliation: "VILA Lab, MBZUAI"
+  - family-names: Shen
+    given-names: Zhiqiang
+    affiliation: "VILA Lab, MBZUAI"
+preferred-citation:
+  type: conference-paper
+  title: "LLMSurgeon: Diagnosing Data Mixture of Large Language Models"
+  authors:
+    - family-names: Luo
+      given-names: Yaxin
+    - family-names: Cui
+      given-names: Jiacheng
+    - family-names: Zhao
+      given-names: Xiaohan
+    - family-names: Shang
+      given-names: Xinyi
+    - family-names: Liu
+      given-names: Jiacheng
+    - family-names: Bi
+      given-names: Xinyue
+    - family-names: Li
+      given-names: Zhaoyi
+    - family-names: Shen
+      given-names: Zhiqiang
+  collection-title: "Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (ACL)"
+  year: 2026
+  # TODO: replace with the arXiv ID once the preprint is public
+  url: "https://arxiv.org/abs/TBD"
+repository-code: "https://github.com/<org>/LLMSurgeon"
+license: MIT
+keywords:
+  - large-language-models
+  - pretraining-data
+  - data-mixture
+  - label-shift
+  - membership-inference

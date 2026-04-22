@@ -1,0 +1,40 @@
+schema: category-mixture-v1
+name: Pythia 2.8B
+family: Pythia 2.8B
+tokenizer_name: EleutherAI/pythia-2.8b
+categories:
+- CommonCrawl
+- GitHub
+- Wikipedia
+- Gutenberg (PG-19)
+- Arxiv
+- StackExchange
+- PubMed Central
+- FreeLaw
+- USPTO Backgrounds
+- PubMed Abstracts
+- DM Mathematics
+- Ubuntu IRC
+- EuroParl
+- HackerNews
+- PhilPapers
+- NIH ExPorter
+- Enron Emails
+category_weights:
+  CommonCrawl: 34.05
+  GitHub: 8.80
+  Wikipedia: 1.77
+  Gutenberg (PG-19): 2.51
+  Arxiv: 10.38
+  StackExchange: 5.95
+  PubMed Central: 16.69
+  FreeLaw: 7.09
+  USPTO Backgrounds: 4.23
+  PubMed Abstracts: 3.56
+  DM Mathematics: 1.43
+  Ubuntu IRC: 1.02
+  EuroParl: 0.84
+  HackerNews: 0.72
+  PhilPapers: 0.44
+  NIH ExPorter: 0.35
+  Enron Emails: 0.17
