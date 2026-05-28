@@ -1,0 +1,18 @@
+schema: category-mixture-v1
+name: OLMo3 7B
+family: OLMo3 7B
+tokenizer_name: allenai/Olmo-3-1025-7B
+categories:
+  - CommonCrawl (Web pages)
+  - olmOCR science PDFs (Academic documents)
+  - Stack-Edu (GitHub Code)
+  - FineMath 3+ 
+  - Wikipedia & Wikibooks (Encyclopedic)
+  - Arxiv
+category_weights:
+  CommonCrawl (Web pages): 76.9
+  olmOCR science PDFs (Academic documents): 12.6
+  Stack-Edu (GitHub Code): 7.06
+  FineMath 3+: 2.60
+  Wikipedia & Wikibooks (Encyclopedic): 0.04
+  Arxiv: 0.82

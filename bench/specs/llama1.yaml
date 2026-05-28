@@ -1,0 +1,20 @@
+schema: category-mixture-v1
+name: Llama 1
+family: Meta Llama 1
+tokenizer_name: huggyllama/llama-65b
+categories:
+  - CommonCrawl
+  - C4
+  - GitHub
+  - Wikipedia
+  - Books
+  - Arxiv
+  - StackExchange
+category_weights:
+  CommonCrawl: 67.0
+  C4: 15.0
+  GitHub: 4.5
+  Wikipedia: 4.5
+  Books: 4.5
+  Arxiv: 2.5
+  StackExchange: 2.5

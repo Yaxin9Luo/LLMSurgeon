@@ -1,0 +1,20 @@
+schema: category-mixture-v1
+name: Amber
+family: MBZUAI Amber
+tokenizer_name: LLM360/Amber
+categories:
+  - CommonCrawl
+  - C4
+  - GitHub
+  - Wikipedia
+  - Books
+  - Arxiv
+  - StackExchange
+category_weights:
+  CommonCrawl: 52.8
+  C4: 15.7
+  GitHub: 23.3
+  Wikipedia: 1.7
+  Books: 2.3
+  Arxiv: 2.5
+  StackExchange: 1.7
