@@ -9,8 +9,7 @@
 
 **Diagnosing Data Mixture of Large Language Models**
 
-[![Paper](https://img.shields.io/badge/paper-ACL%202026-b31b1b.svg)](https://arxiv.org/abs/TBD)
-[![arXiv](https://img.shields.io/badge/arXiv-TBD-b31b1b.svg)](https://arxiv.org/abs/TBD)
+[![Paper](https://img.shields.io/badge/paper-ACL%202026-b31b1b.svg)](https://arxiv.org/abs/2605.30348)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
